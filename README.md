@@ -8,7 +8,7 @@
 
 ### 接口调用时间轴
 
-![点我达](https://dwd-open-bucket.oss-cn-hangzhou.aliyuncs.com/open-portal-static/images/dwd-open-platform-business-flow.jpg?x-oss-process=image/resize,w_2048)
+![点我达](dwd-open-platform-business-flow.jpg)
 
 ### 接口更新日志
 更新时间|接口编号|接口名|更新内容|修订方式

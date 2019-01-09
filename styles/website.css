@@ -1,3 +1,9 @@
 .gitbook-link {
   display: none !important;
 }
+
+.markdown-section table {
+  table-layout: fixed;
+  display:block;
+  overflow-x: auto;
+}
