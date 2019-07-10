@@ -1,1 +1,13 @@
+﻿# 忽略idea文件
+*.iml
+/.idea/
+*/target/
+/logs/*
+/*/logs/*
+*.log
+.gradle/*
+build/
+out/
+.DS_Store
+/*.json
 _book/
